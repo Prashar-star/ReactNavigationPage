@@ -1,2 +1,0 @@
-# ReactNavigationPage
-Created with CodeSandbox
